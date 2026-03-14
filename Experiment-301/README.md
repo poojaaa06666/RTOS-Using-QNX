@@ -232,6 +232,10 @@ MsgSend return status: 0
 ---
 
 # Output
+### Server Side
+![Program Output](exp3011.jpeg)
+### Client Side
+![Program Output](exp3012.jpeg)
 
 ---
 
