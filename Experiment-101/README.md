@@ -53,6 +53,7 @@ int main(void) {
 }
 ```
 ## Output
+![Program Output](exp101.png)
 
 ---
 
