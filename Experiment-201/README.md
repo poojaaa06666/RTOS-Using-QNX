@@ -125,7 +125,7 @@ Child 3 running after parent exit. My PID = 1203, New Parent PID = 1
 ---
 
 # Ouput
-![Output Image](exp201.png)
+![Output Image](exp201.jpeg)
 ---
 
 # Result
