@@ -169,7 +169,7 @@ got our pulse, the timer must have expired
 ---
 
 # Output
-
+![Program Output](exp402.jpeg)
 
 ---
 
