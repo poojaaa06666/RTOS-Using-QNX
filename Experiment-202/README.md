@@ -249,6 +249,7 @@ main, exiting
 ---
 
 # Output
+![Program Output](exp202.jpeg)
 
 ---
 
