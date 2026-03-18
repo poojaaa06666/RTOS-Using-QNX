@@ -28,6 +28,7 @@ Design a **QNX server and client program** where:
 ---
 
 # Algorithm
+* Ensure that the header file: `msg_def.h` is created/copied for both the projects (server and client).
 
 ## Server Algorithm
 
